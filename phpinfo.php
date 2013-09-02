@@ -1,4 +1,4 @@
 <?php
-   // shows info from PHP 
+   // shows all the info from PHP 
    phpinfo();
 ?>
